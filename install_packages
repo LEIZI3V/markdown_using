@@ -1,0 +1,23 @@
+## 第一步
+  >添加Atom安装路径中\bin目录添加到系统的环境变量中
+* 系统环境变量：我的电脑->属性->（左侧）高级系统设置->环境变量->path
+## 第二步
+* 在命令行模式下（win+R之后输入cmd即可打开命令行）输入：
+>\>>apm config set registry https://registry.npm.taobao.org <br>
+> 完成后重启命令行
+
+## 第三步
+* 在命令行模式下输入：
+>\>>apm install package_name
+* 支持相关插件包搜索：
+>\>>apm search package_name
+
+## 在Atom中直接安装包
+* 完成第一步后可以直接在Atom中直接搜索安装相关包
+> 1. ctrl+shift+p打开快捷搜索<br>
+> 2. 输入install packages，选择install packages and Themes
+> 3. 输入你想安装的插件包名：
+  * > 例如中文菜单：
+    > simplified-chinese-menu
+> 4. 大部分包安装完就自动启动了，在Packages中可以看到，有些则需要重新打开Atom
+> 5. 在setting中的packages中可以浏览已安装的包，包括Atom集成的，可以对包进行相关项的设置
