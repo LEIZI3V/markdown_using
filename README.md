@@ -15,7 +15,7 @@
 
 ---
 # markdown_using
-simple examples about markdown  grammar to using.
+* Simple examples about markdown  grammar for using.
 # 推荐使用atom文本编辑器
 * 媲美submit text,插件丰富
 ## markdown语法参照文件markdown_using.md文件
