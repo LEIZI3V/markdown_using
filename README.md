@@ -13,7 +13,6 @@
 * <font color=orange size=5>QQ: 2712366729 </font>
 * <font color=green size=5>E-mail: naoxiaobai@126.com </font> <br>
 
-<font size=3 face='微软雅黑'>更新时间 </font>
 ---
 # markdown_using
 simple examples about markdown  grammar to using.
