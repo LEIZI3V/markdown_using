@@ -12,12 +12,14 @@
 <font size=3 face='微软雅黑'>联系方式:</font>
 * <font color=orange size=5>QQ: 2712366729 </font>
 * <font color=green size=5>E-mail: naoxiaobai@126.com </font> <br>
-
 ---
+
 # markdown_using
 * Simple examples about markdown  grammar for using.
 # 推荐使用atom文本编辑器
 * 媲美submit text,插件丰富
 ## markdown语法参照文件markdown_using.md文件
 * 常用的markdown语法，只需按照步骤敲上几遍基本上就会使用。
+## markdown插件安装问题
+* 查看install_packages.md文件
 
